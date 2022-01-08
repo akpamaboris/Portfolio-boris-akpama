@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Hamburger from "hamburger-react";
-import { Menu, MenuItem, MenuButton, SubMenu } from "@szhsin/react-menu";
+import { Menu, MenuItem, MenuButton } from "@szhsin/react-menu";
 import { Link } from "react-router-dom";
 import "@szhsin/react-menu/dist/core.css";
 
